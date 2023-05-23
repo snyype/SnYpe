@@ -1,5 +1,5 @@
 # INFO
-Laravel<br>VueJs<br>🇳🇵
+Laravel<br>VueJs<br>	&#x1f1f3;&#x1f1f5;
 
 
 ##
