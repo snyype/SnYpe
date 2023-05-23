@@ -1,4 +1,4 @@
-# INFO:
+# INFO
 Laravel<br>VueJs
 
 
