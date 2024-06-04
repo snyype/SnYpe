@@ -1,5 +1,5 @@
 # INFO
-Laravel<br>VueJs<br>	&#x1f1f3;&#x1f1f5;
+Laravel<br>NodeJs<br>React<br>	&#x1f1f3;&#x1f1f5;
 
 
 ##
